@@ -11,14 +11,8 @@
 
 I 💻 code, 🌐 blog, 🎤 speak, ✍ write, 🔡 teach ... and other stuff usually not in the same order.
 
-- 📫 **Contact me**: you can reach me through the above links 👆, in addition to follow me here.
-- ⚡ **Fun fact**: I love ⚽, 🥋, and ☕️.
-
-# Hi, I'm Alejandro :chicken:
-
-Full-Stack Devloper :robot:. (In progress)
-
-ISTA AGADIR Student. :man_technologist:
+- Full-Stack Devloper :robot:. (In progress)
+- ISTA AGADIR Student. :man_technologist:
 
 ## About me 
 
