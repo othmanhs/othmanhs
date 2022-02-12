@@ -1,12 +1,13 @@
 <img src="https://i.imgur.com/8MupZHY.gif" width="400px" align="center"/>
 <br>
 
-
-### Hi there, I'am Othman El Hassnaoui! 👋
 [![Twitter URL](https://img.shields.io/static/v1?color=1DA1F3&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/)
 [![Instagram URL](https://img.shields.io/static/v1?color=C536A4&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/)
 [![LinkedIn URL](https://img.shields.io/static/v1?color=0084B1&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/)
 [![Facebook URL](https://img.shields.io/static/v1?color=3C5B9B&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/)
+
+### Hi there, I'am Othman El Hassnaoui! 👋
+
 
 I 💻 code, 🌐 blog, 🎤 speak, ✍ write, 🔡 teach ... and other stuff usually not in the same order.
 
@@ -21,11 +22,11 @@ ISTA AGADIR Student. :man_technologist:
 
 ## About me 
 
-:heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming
+:heart: Streaming | :black_heart: rider | :blue_heart: Programming
 
-- :earth_americas: I'm from Medellin - Colombia
+- :earth_americas: I'm from Agadir - Morroco
 - :video_game: I like to play video games
-- :gem: I love to customize everything lol
+- :gem: I love MSMEN HRIRA lol
 
 <hr/>
 
