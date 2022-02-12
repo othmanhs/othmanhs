@@ -13,10 +13,10 @@ I 💻 code, 🌐 blog, 🎤 speak, ✍ write, 🔡 teach ... and other stuff us
 
 **NOTE**: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
 
-<a href="https://github.com/drissboumlik/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=drissboumlik&count_private=true&show_icons=true&hide_border=false" />
-</a><a href="https://github.com/drissboumlik/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drissboumlik&layout=compact&hide_border=false" />
+<a href="https://github.com/othmanhs/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=othmanhs&count_private=true&show_icons=true&hide_border=false" />
+</a><a href="https://github.com/othmanhs/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=othmanhs&layout=compact&hide_border=false" />
 </a>
 
 <!--
