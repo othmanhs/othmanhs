@@ -11,7 +11,7 @@ I 💻 code, 🌐 blog, 🎤 speak, ✍ write, 🔡 teach ... and other stuff us
 
 # Hi, I'm Alejandro :chicken:
 
-Full-Stack | Software engineer :robot:. (In progress)
+Full-Stack Devloper :robot:. (In progress)
 
 Holberton School Student. :man_technologist:
 
