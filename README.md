@@ -9,6 +9,20 @@ I 💻 code, 🌐 blog, 🎤 speak, ✍ write, 🔡 teach ... and other stuff us
 - 📫 **Contact me**: you can reach me through the above links 👆, in addition to follow me here.
 - ⚡ **Fun fact**: I love ⚽, 🥋, and ☕️.
 
+# Hi, I'm Alejandro :chicken:
+
+Full-Stack | Software engineer :robot:. (In progress)
+
+Holberton School Student. :man_technologist:
+
+## About me 
+
+:heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming
+
+- :earth_americas: I'm from Medellin - Colombia
+- :video_game: I like to play video games
+- :gem: I love to customize everything lol
+
 <hr/>
 
 **NOTE**: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
