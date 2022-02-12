@@ -13,7 +13,7 @@ I 💻 code, 🌐 blog, 🎤 speak, ✍ write, 🔡 teach ... and other stuff us
 
 Full-Stack Devloper :robot:. (In progress)
 
-Holberton School Student. :man_technologist:
+ISTA AGADIR Student. :man_technologist:
 
 ## About me 
 
