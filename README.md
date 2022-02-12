@@ -1,4 +1,10 @@
-### Hi there 👋
+Hi there, I'am Othman El Hassnaoui! 👋
+
+I 💻 code, 🌐 blog, 🎤 speak, ✍ write, 🔡 teach ... and other stuff usually not in the same order.
+
+📫 Contact me: you can reach me through the above links 👆, in addition to follow me here.
+⚡ Fun fact: I love ⚽, 🥋, and ☕️.
+
 
 <!--
 **othmanhs/othmanhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
