@@ -1,3 +1,7 @@
+<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+<br>
+
+
 ### Hi there, I'am Othman El Hassnaoui! 👋
 [![Twitter URL](https://img.shields.io/static/v1?color=1DA1F3&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/)
 [![Instagram URL](https://img.shields.io/static/v1?color=C536A4&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/)
