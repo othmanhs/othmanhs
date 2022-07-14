@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/8MupZHY.gif" width="400px" align="center"/>
 <br>
 
-[![Twitter URL](https://img.shields.io/static/v1?color=1DA1F3&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/)
+[![Twitter URL](https://img.shields.io/static/v1?color=1DA1F3&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/othmanhs4)
 [![Instagram URL](https://img.shields.io/static/v1?color=C536A4&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/)
 [![LinkedIn URL](https://img.shields.io/static/v1?color=0084B1&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/)
 [![Facebook URL](https://img.shields.io/static/v1?color=3C5B9B&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/)
