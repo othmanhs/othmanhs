@@ -6,10 +6,11 @@
 [![LinkedIn URL](https://img.shields.io/static/v1?color=0084B1&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/)
 [![Facebook URL](https://img.shields.io/static/v1?color=3C5B9B&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/)
 
-### Hi there, I'am Othman El Hassnaoui! 👋
+### Hi there, I'am Athman El Hassnaoui! 👋
 
 
-I 💻 code, 🌐 blog, 🎤 speak, ✍ write, 🔡 teach ... and other stuff usually not in the same order.
+👀 I’m interested in Software development and Machine Learning
+🌱 I’m currently learning new stuff in (React, Php ...)
 
 - Full-Stack Devloper :robot:. (In progress)
 - ISTA AGADIR Student. :man_technologist:
@@ -33,7 +34,7 @@ I 💻 code, 🌐 blog, 🎤 speak, ✍ write, 🔡 teach ... and other stuff us
 </a>
 
 <!--
-**DrissBoumlik/DrissBoumlik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
